@@ -1,0 +1,16 @@
+PODS:
+  - ValidatorFramwork (1.0.0)
+
+DEPENDENCIES:
+  - ValidatorFramwork (from `../ValidatorFramwork`)
+
+EXTERNAL SOURCES:
+  ValidatorFramwork:
+    :path: "../ValidatorFramwork"
+
+SPEC CHECKSUMS:
+  ValidatorFramwork: 7ef3af8e48667d8f875dea45ad0a5cb68ba457ec
+
+PODFILE CHECKSUM: adfc81afbd7816adea7196855792379195350ec0
+
+COCOAPODS: 1.10.1
