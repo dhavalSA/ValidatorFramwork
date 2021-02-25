@@ -7,5 +7,5 @@ target 'Example' do
 
   # Pods for Example
 
-  pod 'ValidatorFramwork', :path => "../ValidatorFramwork"
+  pod 'ValidatorFramwork'
 end

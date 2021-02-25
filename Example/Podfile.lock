@@ -2,15 +2,15 @@ PODS:
   - ValidatorFramwork (1.0.0)
 
 DEPENDENCIES:
-  - ValidatorFramwork (from `../ValidatorFramwork`)
+  - ValidatorFramwork
 
-EXTERNAL SOURCES:
-  ValidatorFramwork:
-    :path: "../ValidatorFramwork"
+SPEC REPOS:
+  trunk:
+    - ValidatorFramwork
 
 SPEC CHECKSUMS:
   ValidatorFramwork: 7ef3af8e48667d8f875dea45ad0a5cb68ba457ec
 
-PODFILE CHECKSUM: adfc81afbd7816adea7196855792379195350ec0
+PODFILE CHECKSUM: ac0125e0a0485e62366a95a967cd51fbe10b0b6a
 
 COCOAPODS: 1.10.1
